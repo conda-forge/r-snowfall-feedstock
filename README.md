@@ -14,9 +14,8 @@ Summary: Usability wrapper around snow for easier development of parallel R prog
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-snowfall-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-snowfall-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-snowfall-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-snowfall-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-snowfall-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-snowfall-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-snowfall-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-snowfall-feedstock)
 
 Current release info
 ====================
