@@ -16,7 +16,7 @@ source:
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
   rpaths:
     - lib/R/lib/
     - lib/
@@ -45,12 +45,8 @@ about:
     designed as connector to the cluster management tool sfCluster, but can also used
     without it.
   license_family: GPL
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
-    - dbast
+    - conda-forge/r
