@@ -3,7 +3,7 @@ About r-snowfall
 
 Home: https://CRAN.R-project.org/package=snowfall
 
-Package license: GPL
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-snowfall-feedstock/blob/master/LICENSE.txt)
 
