@@ -1,11 +1,11 @@
-About r-snowfall
-================
+About r-snowfall-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-snowfall-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=snowfall
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-snowfall-feedstock/blob/main/LICENSE.txt)
 
 Summary: Usability wrapper around snow for easier development of parallel R programs. This package offers e.g. extended error checks, and additional functions. All functions work in sequential mode, too, if no cluster is present or wished. Package is also designed as connector to the cluster management tool sfCluster, but can also used without it.
 
